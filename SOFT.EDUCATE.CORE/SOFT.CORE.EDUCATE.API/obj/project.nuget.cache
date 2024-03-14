@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBIZvY4zl2DuRSzbtutIopEoFuccWJfHZhI/3HSJ2tYz4+Qs0QCYUb1gywHtjZjuQh9O5VgCwMN/4owP3m1G/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Juan Tacuri\\SOFT-TECH-CORE-.NET\\SOFT.EDUCATE.CORE\\SOFT.CORE.EDUCATE.API\\SOFT.CORE.EDUCATE.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JUAN\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\JUAN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\JUAN\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\JUAN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\JUAN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\JUAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\JUAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
